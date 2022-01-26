@@ -1,6 +1,6 @@
-# amazon-home-clone-tailwind-css
+# spotify-clone-com-tailwindcss
 
-Projeto amazon home clone com html5 e tailwindcss3.0
+Projeto spotify clone com html5 e tailwindcss3.0
 
 ```
 npm install
